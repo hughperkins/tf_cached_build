@@ -4,7 +4,7 @@ Cache tensorflow build dependencies, to accelerate repeated tf configures, or ru
 
 This is based on https://github.com/bazelbuild/bazel/issues/587#issuecomment-236599114 :
 
-<img src="img/img/sunil3590_idea.png" />
+<img src="img/sunil3590_idea.png" />
 
 ## Background
 
