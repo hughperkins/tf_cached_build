@@ -2,6 +2,10 @@
 
 Cache tensorflow build dependencies, to accelerate repeated tf configures, or run on a plane
 
+This is based on https://github.com/bazelbuild/bazel/issues/587#issuecomment-236599114 :
+
+<img src="img/img/sunil3590_idea.png" />
+
 ## Background
 
 By default, when you run `./configure`, it will download the dependencies, from `.tar.gz` files, scattered around the internet.  This takes time, and chews up ones 4G
