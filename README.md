@@ -6,6 +6,10 @@ This is based on https://github.com/bazelbuild/bazel/issues/587#issuecomment-236
 
 <img src="img/sunil3590_idea.png" />
 
+Update: apparently bazel has this functionality built-in now :-). https://github.com/bazelbuild/bazel/issues/587#issuecomment-304522032
+
+<img src="img/damienmg_suggestion.png" />
+
 ## Background
 
 By default, when you run `./configure`, it will download the dependencies, from `.tar.gz` files, scattered around the internet.  This takes time, and chews up ones 4G
